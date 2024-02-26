@@ -1,0 +1,978 @@
+[
+    {
+      "Player Name": "Ruturaj Gaikwad",
+      "Role": "Batsman",
+      "Price": "6 crore",
+      "Nation": "India",
+      "Age": 26,
+      "Team": "Chennai"
+    },
+    {
+      "Player Name": "Shivam Dube",
+      "Role": "All Rounder",
+      "Price": "4 crore",
+      "Nation": "India",
+      "Age": 30,
+      "Team": "Chennai"
+    },
+    {
+      "Player Name": "Nishant Sindhu",
+      "Role": "All Rounder",
+      "Price": "60 lakh",
+      "Nation": "India",
+      "Age": 19,
+      "Team": "Chennai"
+    },
+    {
+      "Player Name": "Rajvardhan Hangargekar",
+      "Role": "Bowler",
+      "Price": "1.5 crore",
+      "Nation": "India",
+      "Age": 21,
+      "Team": "Chennai"
+    },
+    {
+      "Player Name": "Deepak Chahar",
+      "Role": "All Rounder",
+      "Price": "14 crore",
+      "Nation": "India",
+      "Age": 31,
+      "Team": "Chennai"
+    },
+    {
+      "Player Name": "Mukesh Choudhary",
+      "Role": "Bowler",
+      "Price": "20 lakh",
+      "Nation": "India",
+      "Age": 27,
+      "Team": "Chennai"
+    },
+    {
+      "Player Name": "Prashant Solanki",
+      "Role": "Bowler",
+      "Price": "1.2 crore",
+      "Nation": "India",
+      "Age": 23,
+      "Team": "Chennai"
+    },
+    {
+      "Player Name": "Tushar Deshpande",
+      "Role": "Bowler",
+      "Price": "20 lakh",
+      "Nation": "India",
+      "Age": 28,
+      "Team": "Chennai"
+    },
+    {
+      "Player Name": "Sameer Rizvi",
+      "Role": "Batter",
+      "Price": "8.4 crore",
+      "Nation": "India",
+      "Age": 20,
+      "Team": "Chennai"
+    },
+    {
+      "Player Name": "Abhishek Porel",
+      "Role": "Wicketkeeper",
+      "Price": "20 lakh",
+      "Nation": "India",
+      "Age": 21,
+      "Team": "Delhi"
+    },
+    {
+      "Player Name": "Prithvi Shaw",
+      "Role": "Batter",
+      "Price": "7.5 crore",
+      "Nation": "India",
+      "Age": 24,
+      "Team": "Delhi"
+    },
+    {
+      "Player Name": "Pravin Dubey",
+      "Role": "Bowler",
+      "Price": "50 lakh",
+      "Nation": "India",
+      "Age": 30,
+      "Team": "Delhi"
+    },
+    {
+      "Player Name": "Khaleel Ahmed",
+      "Role": "Bowler",
+      "Price": "5.25 crore",
+      "Nation": "India",
+      "Age": 26,
+      "Team": "Delhi"
+    },
+    {
+      "Player Name": "Mukesh Kumar",
+      "Role": "Bowler",
+      "Price": "5.5 crore",
+      "Nation": "India",
+      "Age": 30,
+      "Team": "Delhi"
+    },
+    {
+      "Player Name": "Yash Dhull",
+      "Role": "Batter",
+      "Price": "50 lakh",
+      "Nation": "India",
+      "Age": 21,
+      "Team": "Delhi"
+    },
+    {
+      "Player Name": "Lalit Yadav",
+      "Role": "All-rounder",
+      "Price": "65 lakh",
+      "Nation": "India",
+      "Age": 26,
+      "Team": "Delhi"
+    },
+    {
+      "Player Name": "Kumar Kushagra",
+      "Role": "Wicket-keeper",
+      "Price": "7.2 crore",
+      "Nation": "India",
+      "Age": 19,
+      "Team": "Delhi"
+    },
+    {
+      "Player Name": "Sumit Kumar",
+      "Role": "All-Rounder",
+      "Price": "1 crore",
+      "Nation": "India",
+      "Age": 28,
+      "Team": "Delhi"
+    },
+    {
+      "Player Name": "Vijay Shankar",
+      "Role": "All-rounder",
+      "Price": "1.4 crore",
+      "Nation": "India",
+      "Age": 32,
+      "Team": "Gujrat"
+    },
+    {
+      "Player Name": "Sai Sudharsan",
+      "Role": "Batter",
+      "Price": "20 lakh",
+      "Nation": "India",
+      "Age": 22,
+      "Team": "Gujrat"
+    },
+    {
+      "Player Name": "Mohit Sharma",
+      "Role": "Bowler",
+      "Price": "50 lakh",
+      "Nation": "India",
+      "Age": 35,
+      "Team": "Gujrat"
+    },
+    {
+      "Player Name": "Rahul Tewatia",
+      "Role": "All-rounder",
+      "Price": "9 crore",
+      "Nation": "India",
+      "Age": 30,
+      "Team": "Gujrat"
+    },
+    {
+      "Player Name": "Jayant Yadav",
+      "Role": "Bowler",
+      "Price": "1.7 crore",
+      "Nation": "India",
+      "Age": 33,
+      "Team": "Gujrat"
+    },
+    {
+      "Player Name": "Abhinav Manohar",
+      "Role": "Batter",
+      "Price": "2.6 crore",
+      "Nation": "India",
+      "Age": 29,
+      "Team": "Gujrat"
+    },
+    {
+      "Player Name": "Sai Kishore",
+      "Role": "Bowler",
+      "Price": "3 crore",
+      "Nation": "India",
+      "Age": 27,
+      "Team": "Gujrat"
+    },
+    {
+      "Player Name": "Shahrukh Khan",
+      "Role": "All-rounder",
+      "Price": "7.4 crore",
+      "Nation": "India",
+      "Age": 28,
+      "Team": "Gujrat"
+    },
+    {
+      "Player Name": "Sushant Mishra",
+      "Role": "Bowler",
+      "Price": "2.2 crore",
+      "Nation": "India",
+      "Age": 22,
+      "Team": "Gujrat"
+    },
+    {
+      "Player Name": "Robin Minz",
+      "Role": "Wicket-keeper",
+      "Price": "3.6 crore",
+      "Nation": "India",
+      "Age": 21,
+      "Team": "Gujrat"
+    },
+    {
+      "Player Name": "Nitish Rana",
+      "Role": "All-rounder",
+      "Price": "8 crore",
+      "Nation": "India",
+      "Age": 29,
+      "Team": "Kolkata"
+    },
+    {
+      "Player Name": "Varun Chakravarthy",
+      "Role": "Bowler",
+      "Price": "8 crore",
+      "Nation": "India",
+      "Age": 32,
+      "Team": "Kolkata"
+    },
+    {
+      "Player Name": "Suyash Sharma",
+      "Role": "Bowler",
+      "Price": "20 lakh",
+      "Nation": "India",
+      "Age": 20,
+      "Team": "Kolkata"
+    },
+    {
+      "Player Name": "Chetan Sakariya",
+      "Role": "Bowler",
+      "Price": "50 lakh",
+      "Nation": "India",
+      "Age": 25,
+      "Team": "Kolkata"
+    },
+    {
+      "Player Name": "Manish Pandey",
+      "Role": "Batter",
+      "Price": "50 lakh",
+      "Nation": "India",
+      "Age": 34,
+      "Team": "Kolkata"
+    },
+    {
+      "Player Name": "Devdutt Padikkal",
+      "Role": "Batter",
+      "Price": "7.75 crore",
+      "Nation": "India",
+      "Age": 23,
+      "Team": "Lucknow"
+    },
+    {
+      "Player Name": "Ayush Badoni",
+      "Role": "Batter",
+      "Price": "20 lakh",
+      "Nation": "India",
+      "Age": 24,
+      "Team": "Lucknow"
+    },
+    {
+      "Player Name": "Krunal Pandya",
+      "Role": "All-rounder",
+      "Price": "8.25 crore",
+      "Nation": "India",
+      "Age": 32,
+      "Team": "Lucknow"
+    },
+    {
+      "Player Name": "Yash Thakur",
+      "Role": "Bowler",
+      "Price": "45 lakh",
+      "Nation": "India",
+      "Age": 24,
+      "Team": "Lucknow"
+    },
+    {
+      "Player Name": "Shivam Mavi",
+      "Role": "Bowler",
+      "Price": "6.4 crore",
+      "Nation": "India",
+      "Age": 25,
+      "Team": "Lucknow"
+    },
+    {
+      "Player Name": "Manimaran Siddharth",
+      "Role": "Bowler",
+      "Price": "2.4 crore",
+      "Nation": "India",
+      "Age": 25,
+      "Team": "Lucknow"
+    },
+    {
+      "Player Name": "Krishnappa Gowtham",
+      "Role": "All-rounder",
+      "Price": "90 lakh",
+      "Nation": "India",
+      "Age": 35,
+      "Team": "Lucknow"
+    },
+    {
+      "Player Name": "Amit Mishra",
+      "Role": "Bowler",
+      "Price": "50 lakh",
+      "Nation": "India",
+      "Age": 41,
+      "Team": "Lucknow"
+    },
+    {
+      "Player Name": "Tilak Varma",
+      "Role": "Batsman",
+      "Price": "1.7 crore",
+      "Nation": "India",
+      "Age": 21,
+      "Team": "Mumbai"
+    },
+    {
+      "Player Name": "Arjun Tendulkar",
+      "Role": "Bowler",
+      "Price": "30 lakh",
+      "Nation": "India",
+      "Age": 24,
+      "Team": "Mumbai"
+    },
+    {
+      "Player Name": "Kumar Kartikeya",
+      "Role": "Bowler",
+      "Price": "20 lakh",
+      "Nation": "India",
+      "Age": 25,
+      "Team": "Mumbai"
+    },
+    {
+      "Player Name": "Nehal Wadhera",
+      "Role": "Batter",
+      "Price": "20 lakh",
+      "Nation": "India",
+      "Age": 23,
+      "Team": "Mumbai"
+    },
+    {
+      "Player Name": "Shreyas Gopal",
+      "Role": "Bowler",
+      "Price": "20 lakh",
+      "Nation": "India",
+      "Age": 30,
+      "Team": "Mumbai"
+    },
+    {
+      "Player Name": "Jitesh Sharma",
+      "Role": "Batter",
+      "Price": "20 lakh",
+      "Nation": "India",
+      "Age": 30,
+      "Team": "Punjab"
+    },
+    {
+      "Player Name": "Prabhsimran Singh",
+      "Role": "Batter",
+      "Price": "60 lakh",
+      "Nation": "India",
+      "Age": 23,
+      "Team": "Punjab"
+    },
+    {
+      "Player Name": "Atharva Taide",
+      "Role": "Batter",
+      "Price": "20 lakh",
+      "Nation": "India",
+      "Age": 23,
+      "Team": "Punjab"
+    },
+    {
+      "Player Name": "Rishi Dhawan",
+      "Role": "Batter",
+      "Price": "55 lakh",
+      "Nation": "India",
+      "Age": 33,
+      "Team": "Punjab"
+    },
+    {
+      "Player Name": "Harpreet Brar",
+      "Role": "Bowler",
+      "Price": "3.8 crore",
+      "Nation": "India",
+      "Age": 28,
+      "Team": "Punjab"
+    },
+    {
+      "Player Name": "Dhruv Jurel",
+      "Role": "Batter",
+      "Price": "20 lakh",
+      "Nation": "India",
+      "Age": 22,
+      "Team": "Rajasthan"
+    },
+    {
+      "Player Name": "Riyan Parag",
+      "Role": "Batter",
+      "Price": "3.8 crore",
+      "Nation": "India",
+      "Age": 22,
+      "Team": "Rajasthan"
+    },
+    {
+      "Player Name": "Navdeep Saini",
+      "Role": "Bowler",
+      "Price": "2.6 crore",
+      "Nation": "India",
+      "Age": 31,
+      "Team": "Rajasthan"
+    },
+    {
+      "Player Name": "Sandeep Sharma",
+      "Role": "Bowler",
+      "Price": "50 lakh",
+      "Nation": "India",
+      "Age": 30,
+      "Team": "Rajasthan"
+    },
+    {
+      "Player Name": "Shubham Dubey",
+      "Role": "Batter",
+      "Price": "5.8 crore",
+      "Nation": "India",
+      "Age": 29,
+      "Team": "Rajasthan"
+    },
+    {
+      "Player Name": "Rajat Patidar",
+      "Role": "Batter",
+      "Price": "20 lakh",
+      "Nation": "India",
+      "Age": 30,
+      "Team": "Bangalore"
+    },
+    {
+      "Player Name": "Anuj Rawat",
+      "Role": "Keeper-batter",
+      "Price": "3.4 crore",
+      "Nation": "India",
+      "Age": 24,
+      "Team": "Bangalore"
+    },
+    {
+      "Player Name": "Suyash Prabhudesai",
+      "Role": "All-rounder",
+      "Price": "30 lakh",
+      "Nation": "India",
+      "Age": 26,
+      "Team": "Bangalore"
+    },
+    {
+      "Player Name": "Akash Deep",
+      "Role": "Bowler",
+      "Price": "20 lakh",
+      "Nation": "India",
+      "Age": 27,
+      "Team": "Bangalore"
+    },
+    {
+      "Player Name": "Rajan Kumar",
+      "Role": "Bowler",
+      "Price": "70 lakh",
+      "Nation": "India",
+      "Age": 27,
+      "Team": "Bangalore"
+    },
+    {
+      "Player Name": "Karn Sharma",
+      "Role": "Bowler",
+      "Price": "50 lakh",
+      "Nation": "India",
+      "Age": 36,
+      "Team": "Bangalore"
+    },
+    {
+      "Player Name": "Mahipal Lomror",
+      "Role": "Batter",
+      "Price": "95 lakh",
+      "Nation": "India",
+      "Age": 24,
+      "Team": "Bangalore"
+    },
+    {
+      "Player Name": "Yash Dayal",
+      "Role": "Bowler",
+      "Price": "5 crore",
+      "Nation": "India",
+      "Age": 26,
+      "Team": "Bangalore"
+    },
+    {
+      "Player Name": "Mayank Dagar",
+      "Role": "Bowler",
+      "Price": "1.8 crore",
+      "Nation": "India",
+      "Age": 27,
+      "Team": "Bangalore"
+    },
+    {
+      "Player Name": "Abdul Samad",
+      "Role": "Batter",
+      "Price": "4 crore",
+      "Nation": "India",
+      "Age": 22,
+      "Team": "Hyderabad"
+    },
+    {
+      "Player Name": "Rahul Tripathi",
+      "Role": "Batter",
+      "Price": "8.5 crore",
+      "Nation": "India",
+      "Age": 32,
+      "Team": "Hyderabad"
+    },
+    {
+      "Player Name": "Anmolpreet Singh",
+      "Role": "Batter",
+      "Price": "20 lakh",
+      "Nation": "India",
+      "Age": 25,
+      "Team": "Hyderabad"
+    },
+    {
+      "Player Name": "Shahbaz Ahmed",
+      "Role": "All-rounder",
+      "Price": "2.4 crore",
+      "Nation": "India",
+      "Age": 29,
+      "Team": "Hyderabad"
+    },
+    {
+      "Player Name": "Abhishek Sharma",
+      "Role": "All-rounder",
+      "Price": "6.5 crore",
+      "Nation": "India",
+      "Age": 23,
+      "Team": "Hyderabad"
+    },
+    {
+      "Player Name": "Mayank Markande",
+      "Role": "Bowler",
+      "Price": "50 lakh",
+      "Nation": "India",
+      "Age": 26,
+      "Team": "Hyderabad"
+    },
+    {
+      "Player Name": "Umran Malik",
+      "Role": "Bowler",
+      "Price": "4 crore",
+      "Nation": "India",
+      "Age": 24,
+      "Team": "Hyderabad"
+    },
+    {
+      "Player Name": "Jaydev Unadkat",
+      "Role": "Bowler",
+      "Price": "1.6 crore",
+      "Nation": "India",
+      "Age": 32,
+      "Team": "Hyderabad"
+    },
+    {
+        "Player Name": "Shaik Rasheed",
+        "Role": "All-Rounder",
+        "Price": "20 lakh",
+        "Nation": "India",
+        "Age": 19,
+        "Team": "Chennai"
+    },
+    {
+        "Player Name": "Ajay Mandal",
+        "Role": "All Rounder",
+        "Price": "20 lakh",
+        "Nation": "India",
+        "Age": 27,
+        "Team": "Chennai"
+    },
+    {
+        "Player Name": "Simarjeet Singh",
+        "Role": "Bowler",
+        "Price": "20 lakh",
+        "Nation": "India",
+        "Age": 25,
+        "Team": "Chennai"
+    },
+    {
+        "Player Name": "Avanish Rao Aravelly",
+        "Role": "Wicket-keeper",
+        "Price": "20 lakh",
+        "Nation": "India",
+        "Age": 18,
+        "Team": "Chennai"
+    },
+    {
+        "Player Name": "Vicky Ostwal",
+        "Role": "All-Rounder",
+        "Price": "20 lakh",
+        "Nation": "India",
+        "Age": 21,
+        "Team": "Delhi"
+    },
+    {
+        "Player Name": "Ricky Bhui",
+        "Role": "Wicket-keeper",
+        "Price": "20 lakh",
+        "Nation": "India",
+        "Age": 27,
+        "Team": "Delhi"
+    },
+    {
+        "Player Name": "Rasikh Salam Dar",
+        "Role": "Bowler",
+        "Price": "20 lakh",
+        "Nation": "India",
+        "Age": 23,
+        "Team": "Delhi"
+    },
+    {
+        "Player Name": "Swastik Chhikara",
+        "Role": "Batter",
+        "Price": "20 lakh",
+        "Nation": "India",
+        "Age": 18,
+        "Team": "Delhi"
+    },
+    {
+        "Player Name": "Kartik Tyagi",
+        "Role": "Bowler",
+        "Price": "60 lakh",
+        "Nation": "India",
+        "Age": 23,
+        "Team": "Gujrat"
+    },
+    {
+        "Player Name": "Manav Suthar",
+        "Role": "Bowler",
+        "Price": "20 lakh",
+        "Nation": "India",
+        "Age": 21,
+        "Team": "Gujrat"
+    },
+    {
+        "Player Name": "Yudhvir Singh",
+        "Role": "Bowler",
+        "Price": "20 lakh",
+        "Nation": "India",
+        "Age": 26,
+        "Team": "Lucknow"
+    },
+    {
+        "Player Name": "Prerak Mankad",
+        "Role": "All-rounder",
+        "Price": "20 lakh",
+        "Nation": "India",
+        "Age": 29,
+        "Team": "Lucknow"
+    },
+    {
+        "Player Name": "Mayank Yadav",
+        "Role": "Bowler",
+        "Price": "20 lakh",
+        "Nation": "India",
+        "Age": 21,
+        "Team": "Lucknow"
+    },
+    {
+        "Player Name": "Mohsin Khan",
+        "Role": "Bowler",
+        "Price": "20 lakh",
+        "Nation": "India",
+        "Age": 20,
+        "Team": "Lucknow"
+    },
+    {
+        "Player Name": "Arshin Kulkarni",
+        "Role": "All-rounder",
+        "Price": "20 lakh",
+        "Nation": "India",
+        "Age": 18,
+        "Team": "Lucknow"
+    },
+    {
+        "Player Name": "Mohammed Arshad Khan",
+        "Role": "Bowler",
+        "Price": "20 lakh",
+        "Nation": "India",
+        "Age": 25,
+        "Team": "Lucknow"
+    },
+    {
+        "Player Name": "Anukul Roy",
+        "Role": "All-rounder",
+        "Price": "20 lakh",
+        "Nation": "India",
+        "Age": 25,
+        "Team": "Kolkata"
+    },
+    {
+        "Player Name": "Vaibhav Arora",
+        "Role": "Bowler",
+        "Price": "60 lakh",
+        "Nation": "India",
+        "Age": 26,
+        "Team": "Kolkata"
+    },
+    {
+        "Player Name": "Harshit Rana",
+        "Role": "Bowler",
+        "Price": "20 lakh",
+        "Nation": "India",
+        "Age": 21,
+        "Team": "Kolkata"
+    },
+    {
+        "Player Name": "Angkrish Raghuvanshi",
+        "Role": "Batter",
+        "Price": "20 lakh",
+        "Nation": "India",
+        "Age": 18,
+        "Team": "Kolkata"
+    },
+    {
+        "Player Name": "Ramandeep Singh",
+        "Role": "All-rounder",
+        "Price": "20 lakh",
+        "Nation": "India",
+        "Age": 26,
+        "Team": "Kolkata"
+    },
+    {
+        "Player Name": "Sakib Hussain",
+        "Role": "All-rounder",
+        "Price": "20 lakh",
+        "Nation": "India",
+        "Age": 19,
+        "Team": "Kolkata"
+    },
+    {
+        "Player Name": "Akash Madhwal",
+        "Role": "Bowler",
+        "Price": "20 lakh",
+        "Nation": "India",
+        "Age": 30,
+        "Team": "Mumbai"
+    },
+    {
+        "Player Name": "Vishnu Vinod",
+        "Role": "Wicket-keeper",
+        "Price": "20 lakh",
+        "Nation": "India",
+        "Age": 30,
+        "Team": "Mumbai"
+    },
+    {
+        "Player Name": "Shams Mulani",
+        "Role": "All Rounder",
+        "Price": "20 lakh",
+        "Nation": "India",
+        "Age": 26,
+        "Team": "Mumbai"
+    },
+    {
+        "Player Name": "Naman Dhir",
+        "Role": "All-rounder",
+        "Price": "20 lakh",
+        "Nation": "India",
+        "Age": 23,
+        "Team": "Mumbai"
+    },
+    {
+        "Player Name": "Anshul Kamboj",
+        "Role": "Bowler",
+        "Price": "20 lakh",
+        "Nation": "India",
+        "Age": 23,
+        "Team": "Mumbai"
+    },
+    {
+        "Player Name": "Shivalik Sharma",
+        "Role": "All-rounder",
+        "Price": "20 lakh",
+        "Nation": "India",
+        "Age": 25,
+        "Team": "Mumbai"
+    },
+    {
+        "Player Name": "Harpreet Singh Bhatia",
+        "Role": "Batter",
+        "Price": "40 lakh",
+        "Nation": "India",
+        "Age": 32,
+        "Team": "Punjab"
+    },
+    {
+        "Player Name": "Shivam Singh",
+        "Role": "Bowler",
+        "Price": "20 lakh",
+        "Nation": "India",
+        "Age": 28,
+        "Team": "Punjab"
+    },
+    {
+        "Player Name": "Vidwath Kaverappa",
+        "Role": "Bowler",
+        "Price": "20 lakh",
+        "Nation": "India",
+        "Age": 24,
+        "Team": "Punjab"
+    },
+    {
+        "Player Name": "Ashutosh Sharma",
+        "Role": "Batter",
+        "Price": "20 lakh",
+        "Nation": "India",
+        "Age": 25,
+        "Team": "Punjab"
+    },
+    {
+        "Player Name": "Vishwanath Pratap Singh",
+        "Role": "Batter",
+        "Price": "20 lakh",
+        "Nation": "India",
+        "Age": 25,
+        "Team": "Punjab"
+    },
+    {
+        "Player Name": "Shashank Singh",
+        "Role": "All-rounder",
+        "Price": "20 lakh",
+        "Nation": "India",
+        "Age": 32,
+        "Team": "Punjab"
+    },
+    {
+        "Player Name": "Tanay Thyagarajan",
+        "Role": "All-rounder",
+        "Price": "20 lakh",
+        "Nation": "India",
+        "Age": 28,
+        "Team": "Punjab"
+    },
+    {
+        "Player Name": "Prince Choudhary",
+        "Role": "Bowler",
+        "Price": "20 lakh",
+        "Nation": "India",
+        "Age": 24,
+        "Team": "Punjab"
+    },
+    {
+        "Player Name": "Kunal Rathore",
+        "Role": "Wicket-keeper",
+        "Price": "20 lakh",
+        "Nation": "India",
+        "Age": 21,
+        "Team": "Rajasthan"
+    },
+    {
+        "Player Name": "Kuldeep Sen",
+        "Role": "Bowler",
+        "Price": "20 lakh",
+        "Nation": "India",
+        "Age": 27,
+        "Team": "Rajasthan"
+    },
+    {
+        "Player Name": "Abid Mushtaq",
+        "Role": "Bowler",
+        "Price": "20 lakh",
+        "Nation": "India",
+        "Age": 26,
+        "Team": "Rajasthan"
+    },
+    {
+        "Player Name": "Vyshak Vijaykumar",
+        "Role": "Bowler",
+        "Price": "20 lakh",
+        "Nation": "India",
+        "Age": 26,
+        "Team": "Bangalore"
+    },
+    {
+        "Player Name": "Manoj Bhandage",
+        "Role": "All-rounder",
+        "Price": "20 lakh",
+        "Nation": "India",
+        "Age": 25,
+        "Team": "Bangalore"
+    },
+    {
+        "Player Name": "Himanshu Sharma",
+        "Role": "All-rounder",
+        "Price": "20 lakh",
+        "Nation": "India",
+        "Age": 25,
+        "Team": "Bangalore"
+    },
+    {
+        "Player Name": "Swapnil Singh",
+        "Role": "All-rounder",
+        "Price": "20 lakh",
+        "Nation": "India",
+        "Age": 32,
+        "Team": "Bangalore"
+    },
+    {
+        "Player Name": "Sourav Chauhan",
+        "Role": "All-rounder",
+        "Price": "20 lakh",
+        "Nation": "India",
+        "Age": 23,
+        "Team": "Bangalore"
+    },
+    {
+        "Player Name": "Upendra Yadav",
+        "Role": "Wicket-Keeper",
+        "Price": "25 lakh",
+        "Nation": "India",
+        "Age": 27,
+        "Team": "Hyderabad"
+    },
+    {
+        "Player Name": "Sanvir Singh",
+        "Role": "All-rounder",
+        "Price": "20 lakh",
+        "Nation": "India",
+        "Age": 27,
+        "Team": "Hyderabad"
+    },
+    {
+        "Player Name": "Akash Singh",
+        "Role": "Bowler",
+        "Price": "20 lakh",
+        "Nation": "India",
+        "Age": 21,
+        "Team": "Hyderabad"
+    },
+    {
+        "Player Name": "Jhathavedh Subramanyan",
+        "Role": "Bowler",
+        "Price": "20 lakh",
+        "Nation": "India",
+        "Age": 24,
+        "Team": "Hyderabad"
+    },
+    {
+        "Player Name": "Nitish Kumar Reddy",
+        "Role": "All-rounder",
+        "Price": "20 lakh",
+        "Nation": "India",
+        "Age": 20,
+        "Team": "Hyderabad"
+    }
+]
