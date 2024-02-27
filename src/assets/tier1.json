@@ -1,970 +1,970 @@
 [
     {
-      "Player Name": "MS Dhoni (c)",
-      "Role": "Wicket-keeper",
-      "Price": "12 crore",
-      "Nation": "India",
-      "Age": 42,
-      "Team": "Chennai"
-    },
-    {
-      "Player Name": "Ajinkya Rahane",
-      "Role": "Wicket-keeper",
-      "Price": "50 lakh",
-      "Nation": "India",
-      "Age": 35,
-      "Team": "Chennai"
-    },
-    {
-      "Player Name": "Ravindra Jadeja",
-      "Role": "All-Rounder",
-      "Price": "16 crore",
-      "Nation": "India",
-      "Age": 35,
-      "Team": "Chennai"
-    },
-    {
-      "Player Name": "Shardul Thakur",
-      "Role": "All-rounder",
-      "Price": "4 crore",
-      "Nation": "India",
-      "Age": 32,
-      "Team": "Chennai"
-    },
-    {
-      "Player Name": "Rishabh Pant",
-      "Role": "Wicketkeeper",
-      "Price": "16 crore",
-      "Nation": "India",
-      "Age": 26,
-      "Team": "Delhi"
-    },
-    {
-      "Player Name": "Ishant Sharma",
-      "Role": "Bowler",
-      "Price": "50 lakh",
-      "Nation": "India",
-      "Age": 35,
-      "Team": "Delhi"
-    },
-    {
-      "Player Name": "Kuldeep Yadav",
-      "Role": "Bowler",
-      "Price": "2 crore",
-      "Nation": "India",
-      "Age": 29,
-      "Team": "Delhi"
-    },
-    {
-      "Player Name": "Axar Patel",
-      "Role": "All-rounder",
-      "Price": "9 crore",
-      "Nation": "India",
-      "Age": 29,
-      "Team": "Delhi"
-    },
-    {
-      "Player Name": "Mohammed Shami",
-      "Role": "Bowler",
-      "Price": "6.25 crore",
-      "Nation": "India",
-      "Age": 33,
-      "Team": "Gujrat"
-    },
-    {
-      "Player Name": "Wriddiman Saha",
-      "Role": "Wicket-keeper",
-      "Price": "1.9 crore",
-      "Nation": "India",
-      "Age": 39,
-      "Team": "Gujrat"
-    },
-    {
-      "Player Name": "Shubman Gill",
-      "Role": "Batter",
-      "Price": "7 crore",
-      "Nation": "India",
-      "Age": 24,
-      "Team": "Gujrat"
-    },
-    {
-      "Player Name": "Umesh Yadav",
-      "Role": "Bowler",
-      "Price": "5.8 crore",
-      "Nation": "India",
-      "Age": 36,
-      "Team": "Gujrat"
-    },
-    {
-      "Player Name": "Shreyas Iyer",
-      "Role": "Batter",
-      "Price": "12.25 crore",
-      "Nation": "India",
-      "Age": 29,
-      "Team": "Kolkata"
+      "playerName": "MS Dhoni (c)",
+      "role": "Wicket-keeper",
+      "price": "12 crore",
+      "nation": "India",
+      "age": 42,
+      "team": "Chennai"
+    },
+    {
+      "playerName": "Ajinkya Rahane",
+      "role": "Wicket-keeper",
+      "price": "50 lakh",
+      "nation": "India",
+      "age": 35,
+      "team": "Chennai"
+    },
+    {
+      "playerName": "Ravindra Jadeja",
+      "role": "All-Rounder",
+      "price": "16 crore",
+      "nation": "India",
+      "age": 35,
+      "team": "Chennai"
+    },
+    {
+      "playerName": "Shardul Thakur",
+      "role": "All-rounder",
+      "price": "4 crore",
+      "nation": "India",
+      "age": 32,
+      "team": "Chennai"
+    },
+    {
+      "playerName": "Rishabh Pant",
+      "role": "Wicketkeeper",
+      "price": "16 crore",
+      "nation": "India",
+      "age": 26,
+      "team": "Delhi"
+    },
+    {
+      "playerName": "Ishant Sharma",
+      "role": "Bowler",
+      "price": "50 lakh",
+      "nation": "India",
+      "age": 35,
+      "team": "Delhi"
+    },
+    {
+      "playerName": "Kuldeep Yadav",
+      "role": "Bowler",
+      "price": "2 crore",
+      "nation": "India",
+      "age": 29,
+      "team": "Delhi"
+    },
+    {
+      "playerName": "Axar Patel",
+      "role": "All-rounder",
+      "price": "9 crore",
+      "nation": "India",
+      "age": 29,
+      "team": "Delhi"
+    },
+    {
+      "playerName": "Mohammed Shami",
+      "role": "Bowler",
+      "price": "6.25 crore",
+      "nation": "India",
+      "age": 33,
+      "team": "Gujrat"
+    },
+    {
+      "playerName": "Wriddiman Saha",
+      "role": "Wicket-keeper",
+      "price": "1.9 crore",
+      "nation": "India",
+      "age": 39,
+      "team": "Gujrat"
+    },
+    {
+      "playerName": "Shubman Gill",
+      "role": "Batter",
+      "price": "7 crore",
+      "nation": "India",
+      "age": 24,
+      "team": "Gujrat"
+    },
+    {
+      "playerName": "Umesh Yadav",
+      "role": "Bowler",
+      "price": "5.8 crore",
+      "nation": "India",
+      "age": 36,
+      "team": "Gujrat"
+    },
+    {
+      "playerName": "Shreyas Iyer",
+      "role": "Batter",
+      "price": "12.25 crore",
+      "nation": "India",
+      "age": 29,
+      "team": "Kolkata"
     },
     {
-      "Player Name": "Rinku Singh",
-      "Role": "Batter",
-      "Price": "55 lakh",
-      "Nation": "India",
-      "Age": 26,
-      "Team": "Kolkata"
+      "playerName": "Rinku Singh",
+      "role": "Batter",
+      "price": "55 lakh",
+      "nation": "India",
+      "age": 26,
+      "team": "Kolkata"
     },
     {
-      "Player Name": "Venkatesh Iyer",
-      "Role": "All-rounder",
-      "Price": "8 crore",
-      "Nation": "India",
-      "Age": 28,
-      "Team": "Kolkata"
+      "playerName": "Venkatesh Iyer",
+      "role": "All-rounder",
+      "price": "8 crore",
+      "nation": "India",
+      "age": 28,
+      "team": "Kolkata"
     },
     {
-      "Player Name": "KS Bharat",
-      "Role": "Wicket-keeper",
-      "Price": "50 lakh",
-      "Nation": "India",
-      "Age": 30,
-      "Team": "Kolkata"
+      "playerName": "KS Bharat",
+      "role": "Wicket-keeper",
+      "price": "50 lakh",
+      "nation": "India",
+      "age": 30,
+      "team": "Kolkata"
     },
     {
-      "Player Name": "KL Rahul",
-      "Role": "Batter",
-      "Price": "15 crore",
-      "Nation": "India",
-      "Age": 31,
-      "Team": "Lucknow"
+      "playerName": "KL Rahul",
+      "role": "Batter",
+      "price": "15 crore",
+      "nation": "India",
+      "age": 31,
+      "team": "Lucknow"
     },
     {
-      "Player Name": "Deepak Hooda",
-      "Role": "Batter",
-      "Price": "5.75 crore",
-      "Nation": "India",
-      "Age": 28,
-      "Team": "Lucknow"
+      "playerName": "Deepak Hooda",
+      "role": "Batter",
+      "price": "5.75 crore",
+      "nation": "India",
+      "age": 28,
+      "team": "Lucknow"
     },
     {
-      "Player Name": "Ravi Bishnoi",
-      "Role": "Bowler",
-      "Price": "4 crore",
-      "Nation": "India",
-      "Age": 23,
-      "Team": "Lucknow"
+      "playerName": "Ravi Bishnoi",
+      "role": "Bowler",
+      "price": "4 crore",
+      "nation": "India",
+      "age": 23,
+      "team": "Lucknow"
     },
     {
-      "Player Name": "Rohit Sharma",
-      "Role": "Batsman",
-      "Price": "16 crore",
-      "Nation": "India",
-      "Age": 36,
-      "Team": "Mumbai"
+      "playerName": "Rohit Sharma",
+      "role": "Batsman",
+      "price": "16 crore",
+      "nation": "India",
+      "age": 36,
+      "team": "Mumbai"
     },
     {
-      "Player Name": "Jasprit Bumrah",
-      "Role": "Bowler",
-      "Price": "12 crore",
-      "Nation": "India",
-      "Age": 30,
-      "Team": "Mumbai"
+      "playerName": "Jasprit Bumrah",
+      "role": "Bowler",
+      "price": "12 crore",
+      "nation": "India",
+      "age": 30,
+      "team": "Mumbai"
     },
     {
-      "Player Name": "Suryakumar Yadav",
-      "Role": "Batsman",
-      "Price": "8 crore",
-      "Nation": "India",
-      "Age": 33,
-      "Team": "Mumbai"
+      "playerName": "Suryakumar Yadav",
+      "role": "Batsman",
+      "price": "8 crore",
+      "nation": "India",
+      "age": 33,
+      "team": "Mumbai"
     },
     {
-      "Player Name": "Ishan Kishan",
-      "Role": "Batsman",
-      "Price": "15.25 crore",
-      "Nation": "India",
-      "Age": 25,
-      "Team": "Mumbai"
+      "playerName": "Ishan Kishan",
+      "role": "Batsman",
+      "price": "15.25 crore",
+      "nation": "India",
+      "age": 25,
+      "team": "Mumbai"
     },
     {
-      "Player Name": "Hardik Pandya",
-      "Role": "All Rounder",
-      "Price": "15 crore",
-      "Nation": "India",
-      "Age": 30,
-      "Team": "Mumbai"
+      "playerName": "Hardik Pandya",
+      "role": "All Rounder",
+      "price": "15 crore",
+      "nation": "India",
+      "age": 30,
+      "team": "Mumbai"
     },
     {
-      "Player Name": "Piyush Chawla",
-      "Role": "Bowler",
-      "Price": "50 lakh",
-      "Nation": "India",
-      "Age": 34,
-      "Team": "Mumbai"
+      "playerName": "Piyush Chawla",
+      "role": "Bowler",
+      "price": "50 lakh",
+      "nation": "India",
+      "age": 34,
+      "team": "Mumbai"
     },
     {
-      "Player Name": "Shikhar Dhawan (C)",
-      "Role": "Batter",
-      "Price": "8.25 crore",
-      "Nation": "India",
-      "Age": 38,
-      "Team": "Punjab"
+      "playerName": "Shikhar Dhawan (C)",
+      "role": "Batter",
+      "price": "8.25 crore",
+      "nation": "India",
+      "age": 38,
+      "team": "Punjab"
     },
     {
-      "Player Name": "Rahul Chahar",
-      "Role": "Bowler",
-      "Price": "5.25 crore",
-      "Nation": "India",
-      "Age": 24,
-      "Team": "Punjab"
+      "playerName": "Rahul Chahar",
+      "role": "Bowler",
+      "price": "5.25 crore",
+      "nation": "India",
+      "age": 24,
+      "team": "Punjab"
     },
     {
-      "Player Name": "Arshdeep Singh",
-      "Role": "Bowler",
-      "Price": "4 crore",
-      "Nation": "India",
-      "Age": 24,
-      "Team": "Punjab"
+      "playerName": "Arshdeep Singh",
+      "role": "Bowler",
+      "price": "4 crore",
+      "nation": "India",
+      "age": 24,
+      "team": "Punjab"
     },
     {
-      "Player Name": "Harshal Patel",
-      "Role": "All-rounder",
-      "Price": "11.75 crore",
-      "Nation": "India",
-      "Age": 33,
-      "Team": "Punjab"
+      "playerName": "Harshal Patel",
+      "role": "All-rounder",
+      "price": "11.75 crore",
+      "nation": "India",
+      "age": 33,
+      "team": "Punjab"
     },
     {
-      "Player Name": "Sanju Samson",
-      "Role": "Batter",
-      "Price": "14 crore",
-      "Nation": "India",
-      "Age": 29,
-      "Team": "Rajasthan"
+      "playerName": "Sanju Samson",
+      "role": "Batter",
+      "price": "14 crore",
+      "nation": "India",
+      "age": 29,
+      "team": "Rajasthan"
     },
     {
-      "Player Name": "Yashasvi Jaiswal",
-      "Role": "Batter",
-      "Price": "4 crore",
-      "Nation": "India",
-      "Age": 21,
-      "Team": "Rajasthan"
+      "playerName": "Yashasvi Jaiswal",
+      "role": "Batter",
+      "price": "4 crore",
+      "nation": "India",
+      "age": 21,
+      "team": "Rajasthan"
     },
     {
-      "Player Name": "Yuzvendra Chahal",
-      "Role": "Bowler",
-      "Price": "6.5 crore",
-      "Nation": "India",
-      "Age": 33,
-      "Team": "Rajasthan"
+      "playerName": "Yuzvendra Chahal",
+      "role": "Bowler",
+      "price": "6.5 crore",
+      "nation": "India",
+      "age": 33,
+      "team": "Rajasthan"
     },
     {
-      "Player Name": "Ravichandran Ashwin",
-      "Role": "All-rounder",
-      "Price": "5 crore",
-      "Nation": "India",
-      "Age": 37,
-      "Team": "Rajasthan"
+      "playerName": "Ravichandran Ashwin",
+      "role": "All-rounder",
+      "price": "5 crore",
+      "nation": "India",
+      "age": 37,
+      "team": "Rajasthan"
     },
     {
-      "Player Name": "Prasidh Krishna",
-      "Role": "Bowler",
-      "Price": "10 crore",
-      "Nation": "India",
-      "Age": 27,
-      "Team": "Rajasthan"
+      "playerName": "Prasidh Krishna",
+      "role": "Bowler",
+      "price": "10 crore",
+      "nation": "India",
+      "age": 27,
+      "team": "Rajasthan"
     },
     {
-      "Player Name": "Avesh Khan",
-      "Role": "Bowler",
-      "Price": "10 cr",
-      "Nation": "India",
-      "Age": 27,
-      "Team": "Rajasthan"
+      "playerName": "Avesh Khan",
+      "role": "Bowler",
+      "price": "10 cr",
+      "nation": "India",
+      "age": 27,
+      "team": "Rajasthan"
     },
     {
-      "Player Name": "Virat Kohli",
-      "Role": "Batter",
-      "Price": "15 crore",
-      "Nation": "India",
-      "Age": 35,
-      "Team": "Bangalore"
+      "playerName": "Virat Kohli",
+      "role": "Batter",
+      "price": "15 crore",
+      "nation": "India",
+      "age": 35,
+      "team": "Bangalore"
     },
     {
-      "Player Name": "Mohammed Siraj",
-      "Role": "Bowler",
-      "Price": "7 crore",
-      "Nation": "India",
-      "Age": 29,
-      "Team": "Bangalore"
+      "playerName": "Mohammed Siraj",
+      "role": "Bowler",
+      "price": "7 crore",
+      "nation": "India",
+      "age": 29,
+      "team": "Bangalore"
     },
     {
-      "Player Name": "Dinesh Karthik",
-      "Role": "Keeper-Batter",
-      "Price": "5.5 crore",
-      "Nation": "India",
-      "Age": 38,
-      "Team": "Bangalore"
+      "playerName": "Dinesh Karthik",
+      "role": "Keeper-Batter",
+      "price": "5.5 crore",
+      "nation": "India",
+      "age": 38,
+      "team": "Bangalore"
     },
     {
-      "Player Name": "Mayank Agarwal",
-      "Role": "Batter",
-      "Price": "8.25 crore",
-      "Nation": "India",
-      "Age": 32,
-      "Team": "Hyderabad"
+      "playerName": "Mayank Agarwal",
+      "role": "Batter",
+      "price": "8.25 crore",
+      "nation": "India",
+      "age": 32,
+      "team": "Hyderabad"
     },
     {
-      "Player Name": "Washington Sundar",
-      "Role": "All-rounder",
-      "Price": "8.75 crore",
-      "Nation": "India",
-      "Age": 24,
-      "Team": "Hyderabad"
+      "playerName": "Washington Sundar",
+      "role": "All-rounder",
+      "price": "8.75 crore",
+      "nation": "India",
+      "age": 24,
+      "team": "Hyderabad"
     },
     {
-      "Player Name": "Bhuvneshwar Kumar",
-      "Role": "Bowler",
-      "Price": "4.2 crore",
-      "Nation": "India",
-      "Age": 33,
-      "Team": "Hyderabad"
+      "playerName": "Bhuvneshwar Kumar",
+      "role": "Bowler",
+      "price": "4.2 crore",
+      "nation": "India",
+      "age": 33,
+      "team": "Hyderabad"
     },
     {
-      "Player Name": "T Natarajan",
-      "Role": "Bowler",
-      "Price": "4 crore",
-      "Nation": "India",
-      "Age": 32,
-      "Team": "Hyderabad"
+      "playerName": "T Natarajan",
+      "role": "Bowler",
+      "price": "4 crore",
+      "nation": "India",
+      "age": 32,
+      "team": "Hyderabad"
     },
     {
-      "Player Name": "Devon Conway",
-      "Role": "Batsman",
-      "Price": "1 crore",
-      "Nation": "New Zealand",
-      "Age": 32,
-      "Team": "Chennai"
+      "playerName": "Devon Conway",
+      "role": "Batsman",
+      "price": "1 crore",
+      "nation": "New Zealand",
+      "age": 32,
+      "team": "Chennai"
     },
     {
-      "Player Name": "Mitchell Santner",
-      "Role": "All Rounder",
-      "Price": "1.9 crore",
-      "Nation": "New Zealand",
-      "Age": 31,
-      "Team": "Chennai"
+      "playerName": "Mitchell Santner",
+      "role": "All Rounder",
+      "price": "1.9 crore",
+      "nation": "New Zealand",
+      "age": 31,
+      "team": "Chennai"
     },
     {
-      "Player Name": "Moeen Ali",
-      "Role": "All Rounder",
-      "Price": "8 crore",
-      "Nation": "England",
-      "Age": 36,
-      "Team": "Chennai"
+      "playerName": "Moeen Ali",
+      "role": "All Rounder",
+      "price": "8 crore",
+      "nation": "England",
+      "age": 36,
+      "team": "Chennai"
     },
     {
-      "Player Name": "Maheesh Theekshana",
-      "Role": "Bowler",
-      "Price": "70 lakh",
-      "Nation": "Sri Lanka",
-      "Age": 23,
-      "Team": "Chennai"
+      "playerName": "Maheesh Theekshana",
+      "role": "Bowler",
+      "price": "70 lakh",
+      "nation": "Sri Lanka",
+      "age": 23,
+      "team": "Chennai"
     },
     {
-      "Player Name": "Matheesha Pathirana",
-      "Role": "Bowler",
-      "Price": "20 lakh",
-      "Nation": "Sri Lanka",
-      "Age": 21,
-      "Team": "Chennai"
+      "playerName": "Matheesha Pathirana",
+      "role": "Bowler",
+      "price": "20 lakh",
+      "nation": "Sri Lanka",
+      "age": 21,
+      "team": "Chennai"
     },
     {
-      "Player Name": "Rachin Ravindra",
-      "Role": "All-rounder",
-      "Price": "1.8 crore",
-      "Nation": "New Zealand",
-      "Age": 24,
-      "Team": "Chennai"
+      "playerName": "Rachin Ravindra",
+      "role": "All-rounder",
+      "price": "1.8 crore",
+      "nation": "New Zealand",
+      "age": 24,
+      "team": "Chennai"
     },
     {
-      "Player Name": "Daryl Mitchell",
-      "Role": "All-rounder",
-      "Price": "14 crore",
-      "Nation": "New Zealand",
-      "Age": 32,
-      "Team": "Chennai"
+      "playerName": "Daryl Mitchell",
+      "role": "All-rounder",
+      "price": "14 crore",
+      "nation": "New Zealand",
+      "age": 32,
+      "team": "Chennai"
     },
     {
-      "Player Name": "Mustafizur Rahman",
-      "Role": "Bowler",
-      "Price": "2 crore",
-      "Nation": "Bangladesh",
-      "Age": 28,
-      "Team": "Chennai"
+      "playerName": "Mustafizur Rahman",
+      "role": "Bowler",
+      "price": "2 crore",
+      "nation": "Bangladesh",
+      "age": 28,
+      "team": "Chennai"
     },
     {
-      "Player Name": "David Warner",
-      "Role": "Batter",
-      "Price": "6.25 crore",
-      "Nation": "Australia",
-      "Age": 37,
-      "Team": "Delhi"
+      "playerName": "David Warner",
+      "role": "Batter",
+      "price": "6.25 crore",
+      "nation": "Australia",
+      "age": 37,
+      "team": "Delhi"
     },
     {
-      "Player Name": "Mitchell Marsh",
-      "Role": "All-rounder",
-      "Price": "6.5 crore",
-      "Nation": "Australia",
-      "Age": 32,
-      "Team": "Delhi"
+      "playerName": "Mitchell Marsh",
+      "role": "All-rounder",
+      "price": "6.5 crore",
+      "nation": "Australia",
+      "age": 32,
+      "team": "Delhi"
     },
     {
-      "Player Name": "Anrich Nortje",
-      "Role": "Bowler",
-      "Price": "6.5 crore",
-      "Nation": "South Africa",
-      "Age": 30,
-      "Team": "Delhi"
+      "playerName": "Anrich Nortje",
+      "role": "Bowler",
+      "price": "6.5 crore",
+      "nation": "South Africa",
+      "age": 30,
+      "team": "Delhi"
     },
     {
-      "Player Name": "Lungi Ngidi",
-      "Role": "Bowler",
-      "Price": "50 lakh",
-      "Nation": "South Africa",
-      "Age": 27,
-      "Team": "Delhi"
+      "playerName": "Lungi Ngidi",
+      "role": "Bowler",
+      "price": "50 lakh",
+      "nation": "South Africa",
+      "age": 27,
+      "team": "Delhi"
     },
     {
-      "Player Name": "Harry Brook",
-      "Role": "Batter",
-      "Price": "4 crore",
-      "Nation": "England",
-      "Age": 24,
-      "Team": "Delhi"
+      "playerName": "Harry Brook",
+      "role": "Batter",
+      "price": "4 crore",
+      "nation": "England",
+      "age": 24,
+      "team": "Delhi"
     },
     {
-      "Player Name": "Tristan Stubbs",
-      "Role": "Wicket-keeper",
-      "Price": "50 lakh",
-      "Nation": "Australia",
-      "Age": 23,
-      "Team": "Delhi"
+      "playerName": "Tristan Stubbs",
+      "role": "Wicket-keeper",
+      "price": "50 lakh",
+      "nation": "Australia",
+      "age": 23,
+      "team": "Delhi"
     },
     {
-      "Player Name": "Jhye Richardson",
-      "Role": "Bowler",
-      "Price": "5 crore",
-      "Nation": "Australia",
-      "Age": 27,
-      "Team": "Delhi"
+      "playerName": "Jhye Richardson",
+      "role": "Bowler",
+      "price": "5 crore",
+      "nation": "Australia",
+      "age": 27,
+      "team": "Delhi"
     },
     {
-      "Player Name": "Shai Hope",
-      "Role": "Wicket-keeper",
-      "Price": "75 lakh",
-      "Nation": "West Indies",
-      "Age": 30,
-      "Team": "Delhi"
+      "playerName": "Shai Hope",
+      "role": "Wicket-keeper",
+      "price": "75 lakh",
+      "nation": "West Indies",
+      "age": 30,
+      "team": "Delhi"
     },
     {
-      "Player Name": "Rashid Khan",
-      "Role": "Bowler",
-      "Price": "15 crore",
-      "Nation": "Afghanistan",
-      "Age": 25,
-      "Team": "Gujrat"
+      "playerName": "Rashid Khan",
+      "role": "Bowler",
+      "price": "15 crore",
+      "nation": "Afghanistan",
+      "age": 25,
+      "team": "Gujrat"
     },
     {
-      "Player Name": "Kane Williamson",
-      "Role": "Batter",
-      "Price": "2 crore",
-      "Nation": "New Zealand",
-      "Age": 33,
-      "Team": "Gujrat"
+      "playerName": "Kane Williamson",
+      "role": "Batter",
+      "price": "2 crore",
+      "nation": "New Zealand",
+      "age": 33,
+      "team": "Gujrat"
     },
     {
-      "Player Name": "Noor Ahmad",
-      "Role": "Bowler",
-      "Price": "30 lakh",
-      "Nation": "Afghanistan",
-      "Age": 18,
-      "Team": "Gujrat"
+      "playerName": "Noor Ahmad",
+      "role": "Bowler",
+      "price": "30 lakh",
+      "nation": "Afghanistan",
+      "age": 18,
+      "team": "Gujrat"
     },
     {
-      "Player Name": "David Miller",
-      "Role": "Batter",
-      "Price": "3 crore",
-      "Nation": "South Africa",
-      "Age": 34,
-      "Team": "Gujrat"
+      "playerName": "David Miller",
+      "role": "Batter",
+      "price": "3 crore",
+      "nation": "South Africa",
+      "age": 34,
+      "team": "Gujrat"
     },
     {
-      "Player Name": "Joshua Little",
-      "Role": "Bowler",
-      "Price": "4.4 crore",
-      "Nation": "Ireland",
-      "Age": 24,
-      "Team": "Gujrat"
+      "playerName": "Joshua Little",
+      "role": "Bowler",
+      "price": "4.4 crore",
+      "nation": "Ireland",
+      "age": 24,
+      "team": "Gujrat"
     },
     {
-      "Player Name": "Azmatullah Omarzai",
-      "Role": "All-rounder",
-      "Price": "50 lakh",
-      "Nation": "Afghanistan",
-      "Age": 23,
-      "Team": "Gujrat"
+      "playerName": "Azmatullah Omarzai",
+      "role": "All-rounder",
+      "price": "50 lakh",
+      "nation": "Afghanistan",
+      "age": 23,
+      "team": "Gujrat"
     },
     {
-      "Player Name": "Spencer Johnson",
-      "Role": "Bowler",
-      "Price": "10 crore",
-      "Nation": "Australia",
-      "Age": 28,
-      "Team": "Gujrat"
+      "playerName": "Spencer Johnson",
+      "role": "Bowler",
+      "price": "10 crore",
+      "nation": "Australia",
+      "age": 28,
+      "team": "Gujrat"
     },
     {
-      "Player Name": "Sunil Narine",
-      "Role": "All-rounder",
-      "Price": "6 crore",
-      "Nation": "West Indies",
-      "Age": 35,
-      "Team": "Kolkata"
+      "playerName": "Sunil Narine",
+      "role": "All-rounder",
+      "price": "6 crore",
+      "nation": "West Indies",
+      "age": 35,
+      "team": "Kolkata"
     },
     {
-      "Player Name": "Andre Russell",
-      "Role": "All-rounder",
-      "Price": "12 crore",
-      "Nation": "West Indies",
-      "Age": 35,
-      "Team": "Kolkata"
+      "playerName": "Andre Russell",
+      "role": "All-rounder",
+      "price": "12 crore",
+      "nation": "West Indies",
+      "age": 35,
+      "team": "Kolkata"
     },
     {
-      "Player Name": "Jason Roy",
-      "Role": "Batter",
-      "Price": "2.8 crore",
-      "Nation": "England",
-      "Age": 33,
-      "Team": "Kolkata"
+      "playerName": "Jason Roy",
+      "role": "Batter",
+      "price": "2.8 crore",
+      "nation": "England",
+      "age": 33,
+      "team": "Kolkata"
     },
     {
-      "Player Name": "Rahmanullah Gurbaz",
-      "Role": "Wicket-keeper",
-      "Price": "50 lakh",
-      "Nation": "Afghanistan",
-      "Age": 22,
-      "Team": "Kolkata"
+      "playerName": "Rahmanullah Gurbaz",
+      "role": "Wicket-keeper",
+      "price": "50 lakh",
+      "nation": "Afghanistan",
+      "age": 22,
+      "team": "Kolkata"
     },
     {
-      "Player Name": "Mitchell Starc",
-      "Role": "Bowler",
-      "Price": "24.75 crore",
-      "Nation": "Australia",
-      "Age": 33,
-      "Team": "Kolkata"
+      "playerName": "Mitchell Starc",
+      "role": "Bowler",
+      "price": "24.75 crore",
+      "nation": "Australia",
+      "age": 33,
+      "team": "Kolkata"
     },
     {
-      "Player Name": "Sherfane Rutherford",
-      "Role": "Batter",
-      "Price": "1.5 crore",
-      "Nation": "West Indies",
-      "Age": 25,
-      "Team": "Kolkata"
+      "playerName": "Sherfane Rutherford",
+      "role": "Batter",
+      "price": "1.5 crore",
+      "nation": "West Indies",
+      "age": 25,
+      "team": "Kolkata"
     },
     {
-      "Player Name": "Mujeeb Ur Rahman",
-      "Role": "Batter",
-      "Price": "2 crore",
-      "Nation": "Afghanistan",
-      "Age": 22,
-      "Team": "Kolkata"
+      "playerName": "Mujeeb Ur Rahman",
+      "role": "Batter",
+      "price": "2 crore",
+      "nation": "Afghanistan",
+      "age": 22,
+      "team": "Kolkata"
     },
     {
-      "Player Name": "Gus Atkinson",
-      "Role": "Bowler",
-      "Price": "1 crore",
-      "Nation": "England",
-      "Age": 25,
-      "Team": "Kolkata"
+      "playerName": "Gus Atkinson",
+      "role": "Bowler",
+      "price": "1 crore",
+      "nation": "England",
+      "age": 25,
+      "team": "Kolkata"
     },
     {
-      "Player Name": "Quinton de Kock",
-      "Role": "Batter",
-      "Price": "6.75 crore",
-      "Nation": "South Africa",
-      "Age": 31,
-      "Team": "Lucknow"
+      "playerName": "Quinton de Kock",
+      "role": "Batter",
+      "price": "6.75 crore",
+      "nation": "South Africa",
+      "age": 31,
+      "team": "Lucknow"
     },
     {
-      "Player Name": "Nicholas Pooran",
-      "Role": "Batter",
-      "Price": "16 crore",
-      "Nation": "West Indies",
-      "Age": 28,
-      "Team": "Lucknow"
+      "playerName": "Nicholas Pooran",
+      "role": "Batter",
+      "price": "16 crore",
+      "nation": "West Indies",
+      "age": 28,
+      "team": "Lucknow"
     },
     {
-      "Player Name": "Kyle Mayers",
-      "Role": "Bowler",
-      "Price": "50 lakh",
-      "Nation": "West Indies",
-      "Age": 31,
-      "Team": "Lucknow"
+      "playerName": "Kyle Mayers",
+      "role": "Bowler",
+      "price": "50 lakh",
+      "nation": "West Indies",
+      "age": 31,
+      "team": "Lucknow"
     },
     {
-      "Player Name": "Marcus Stoinis",
-      "Role": "All-rounder",
-      "Price": "11 crore",
-      "Nation": "Australia",
-      "Age": 34,
-      "Team": "Lucknow"
+      "playerName": "Marcus Stoinis",
+      "role": "All-rounder",
+      "price": "11 crore",
+      "nation": "Australia",
+      "age": 34,
+      "team": "Lucknow"
     },
     {
-      "Player Name": "Naveen-ul-Haq",
-      "Role": "Bowler",
-      "Price": "50 lakh",
-      "Nation": "Afghanistan",
-      "Age": 24,
-      "Team": "Lucknow"
+      "playerName": "Naveen-ul-Haq",
+      "role": "Bowler",
+      "price": "50 lakh",
+      "nation": "Afghanistan",
+      "age": 24,
+      "team": "Lucknow"
     },
     {
-      "Player Name": "Mark Wood",
-      "Role": "Bowler",
-      "Price": "7.5 crore",
-      "Nation": "England",
-      "Age": 33,
-      "Team": "Lucknow"
+      "playerName": "Mark Wood",
+      "role": "Bowler",
+      "price": "7.5 crore",
+      "nation": "England",
+      "age": 33,
+      "team": "Lucknow"
     },
     {
-      "Player Name": "Ashton Turner",
-      "Role": "Batter",
-      "Price": "1 crore",
-      "Nation": "Australia",
-      "Age": 30,
-      "Team": "Lucknow"
+      "playerName": "Ashton Turner",
+      "role": "Batter",
+      "price": "1 crore",
+      "nation": "Australia",
+      "age": 30,
+      "team": "Lucknow"
     },
     {
-      "Player Name": "David Willey",
-      "Role": "All-rounder",
-      "Price": "2 crore",
-      "Nation": "England",
-      "Age": 33,
-      "Team": "Lucknow"
+      "playerName": "David Willey",
+      "role": "All-rounder",
+      "price": "2 crore",
+      "nation": "England",
+      "age": 33,
+      "team": "Lucknow"
     },
     {
-      "Player Name": "Shamar Joseph",
-      "Role": "Bowler",
-      "Price": "3 crore",
-      "Nation": "West indies",
-      "Age": 24,
-      "Team": "Lucknow"
+      "playerName": "Shamar Joseph",
+      "role": "Bowler",
+      "price": "3 crore",
+      "nation": "West indies",
+      "age": 24,
+      "team": "Lucknow"
     },
     {
-      "Player Name": "Dewald Brevis",
-      "Role": "Batsman",
-      "Price": "3 crore",
-      "Nation": "South Africa",
-      "Age": 20,
-      "Team": "Mumbai"
+      "playerName": "Dewald Brevis",
+      "role": "Batsman",
+      "price": "3 crore",
+      "nation": "South Africa",
+      "age": 20,
+      "team": "Mumbai"
     },
     {
-      "Player Name": "Tim David",
-      "Role": "All-Rounder",
-      "Price": "8.25 crore",
-      "Nation": "Australia",
-      "Age": 27,
-      "Team": "Mumbai"
+      "playerName": "Tim David",
+      "role": "All-Rounder",
+      "price": "8.25 crore",
+      "nation": "Australia",
+      "age": 27,
+      "team": "Mumbai"
     },
     {
-      "Player Name": "Jason Behrendorff",
-      "Role": "Bowler",
-      "Price": "75 lakh",
-      "Nation": "Australia",
-      "Age": 33,
-      "Team": "Mumbai"
+      "playerName": "Jason Behrendorff",
+      "role": "Bowler",
+      "price": "75 lakh",
+      "nation": "Australia",
+      "age": 33,
+      "team": "Mumbai"
     },
     {
-      "Player Name": "Romario Shepherd",
-      "Role": "All Rounder",
-      "Price": "50 lakh",
-      "Nation": "West Indies",
-      "Age": 29,
-      "Team": "Mumbai"
+      "playerName": "Romario Shepherd",
+      "role": "All Rounder",
+      "price": "50 lakh",
+      "nation": "West Indies",
+      "age": 29,
+      "team": "Mumbai"
     },
     {
-      "Player Name": "Gerald Coetzee",
-      "Role": "All-rounder",
-      "Price": "5 crore",
-      "Nation": "South Africa",
-      "Age": 23,
-      "Team": "Mumbai"
+      "playerName": "Gerald Coetzee",
+      "role": "All-rounder",
+      "price": "5 crore",
+      "nation": "South Africa",
+      "age": 23,
+      "team": "Mumbai"
     },
     {
-      "Player Name": "Dilshan Madushanka",
-      "Role": "Bowler",
-      "Price": "4.6 crore",
-      "Nation": "Sri Lanka",
-      "Age": 23,
-      "Team": "Mumbai"
+      "playerName": "Dilshan Madushanka",
+      "role": "Bowler",
+      "price": "4.6 crore",
+      "nation": "Sri Lanka",
+      "age": 23,
+      "team": "Mumbai"
     },
     {
-      "Player Name": "Nuwan Thushara",
-      "Role": "Bowler",
-      "Price": "4.8 crore",
-      "Nation": "Sri Lanka",
-      "Age": 29,
-      "Team": "Mumbai"
+      "playerName": "Nuwan Thushara",
+      "role": "Bowler",
+      "price": "4.8 crore",
+      "nation": "Sri Lanka",
+      "age": 29,
+      "team": "Mumbai"
     },
     {
-      "Player Name": "Mohammad Nabi",
-      "Role": "All-rounder",
-      "Price": "1.5 crore",
-      "Nation": "Afghanistan",
-      "Age": 38,
-      "Team": "Mumbai"
+      "playerName": "Mohammad Nabi",
+      "role": "All-rounder",
+      "price": "1.5 crore",
+      "nation": "Afghanistan",
+      "age": 38,
+      "team": "Mumbai"
     },
     {
-      "Player Name": "Jonny Bairstow",
-      "Role": "Wicket-keeper",
-      "Price": "6.75 crore",
-      "Nation": "England",
-      "Age": 34,
-      "Team": "Punjab"
+      "playerName": "Jonny Bairstow",
+      "role": "Wicket-keeper",
+      "price": "6.75 crore",
+      "nation": "England",
+      "age": 34,
+      "team": "Punjab"
     },
     {
-      "Player Name": "Matthew Short",
-      "Role": "Batter",
-      "Price": "20 lakh",
-      "Nation": "Australia",
-      "Age": 28,
-      "Team": "Punjab"
+      "playerName": "Matthew Short",
+      "role": "Batter",
+      "price": "20 lakh",
+      "nation": "Australia",
+      "age": 28,
+      "team": "Punjab"
     },
     {
-      "Player Name": "Sam Curran",
-      "Role": "All-rounder",
-      "Price": "18.5 crore",
-      "Nation": "England",
-      "Age": 25,
-      "Team": "Punjab"
+      "playerName": "Sam Curran",
+      "role": "All-rounder",
+      "price": "18.5 crore",
+      "nation": "England",
+      "age": 25,
+      "team": "Punjab"
     },
     {
-      "Player Name": "Sikandar Raza",
-      "Role": "All-rounder",
-      "Price": "50 lakh",
-      "Nation": "Zimbabwe",
-      "Age": 37,
-      "Team": "Punjab"
+      "playerName": "Sikandar Raza",
+      "role": "All-rounder",
+      "price": "50 lakh",
+      "nation": "Zimbabwe",
+      "age": 37,
+      "team": "Punjab"
     },
     {
-      "Player Name": "Liam Livingstone",
-      "Role": "Batter",
-      "Price": "11.5 crore",
-      "Nation": "England",
-      "Age": 30,
-      "Team": "Punjab"
+      "playerName": "Liam Livingstone",
+      "role": "Batter",
+      "price": "11.5 crore",
+      "nation": "England",
+      "age": 30,
+      "team": "Punjab"
     },
     {
-      "Player Name": "Nathan Ellis",
-      "Role": "Bowler",
-      "Price": "75 lakh",
-      "Nation": "Australia",
-      "Age": 29,
-      "Team": "Punjab"
+      "playerName": "Nathan Ellis",
+      "role": "Bowler",
+      "price": "75 lakh",
+      "nation": "Australia",
+      "age": 29,
+      "team": "Punjab"
     },
     {
-      "Player Name": "Chris Woakes",
-      "Role": "All-rounder",
-      "Price": "4.2 crore",
-      "Nation": "England",
-      "Age": 34,
-      "Team": "Punjab"
+      "playerName": "Chris Woakes",
+      "role": "All-rounder",
+      "price": "4.2 crore",
+      "nation": "England",
+      "age": 34,
+      "team": "Punjab"
     },
     {
-      "Player Name": "Rilee Rossouw",
-      "Role": "Batter",
-      "Price": "8 crore",
-      "Nation": "South Africa",
-      "Age": 34,
-      "Team": "Punjab"
+      "playerName": "Rilee Rossouw",
+      "role": "Batter",
+      "price": "8 crore",
+      "nation": "South Africa",
+      "age": 34,
+      "team": "Punjab"
     },
     {
-      "Player Name": "Jos Buttler",
-      "Role": "Batter",
-      "Price": "10 crore",
-      "Nation": "England",
-      "Age": 33,
-      "Team": "Rajasthan"
+      "playerName": "Jos Buttler",
+      "role": "Batter",
+      "price": "10 crore",
+      "nation": "England",
+      "age": 33,
+      "team": "Rajasthan"
     },
     {
-      "Player Name": "Trent Boult",
-      "Role": "Bowler",
-      "Price": "8 crore",
-      "Nation": "New Zealand",
-      "Age": 34,
-      "Team": "Rajasthan"
+      "playerName": "Trent Boult",
+      "role": "Bowler",
+      "price": "8 crore",
+      "nation": "New Zealand",
+      "age": 34,
+      "team": "Rajasthan"
     },
     {
-      "Player Name": "Shimron Hetmyer",
-      "Role": "Batter",
-      "Price": "8.5 crore",
-      "Nation": "West Indies",
-      "Age": 26,
-      "Team": "Rajasthan"
+      "playerName": "Shimron Hetmyer",
+      "role": "Batter",
+      "price": "8.5 crore",
+      "nation": "West Indies",
+      "age": 26,
+      "team": "Rajasthan"
     },
     {
-      "Player Name": "Donovan Ferreira",
-      "Role": "All-rounder",
-      "Price": "50 lakh",
-      "Nation": "South Africa",
-      "Age": 25,
-      "Team": "Rajasthan"
+      "playerName": "Donovan Ferreira",
+      "role": "All-rounder",
+      "price": "50 lakh",
+      "nation": "South Africa",
+      "age": 25,
+      "team": "Rajasthan"
     },
     {
-      "Player Name": "Adam Zampa",
-      "Role": "Bowler",
-      "Price": "1.5 crore",
-      "Nation": "Australia",
-      "Age": 31,
-      "Team": "Rajasthan"
+      "playerName": "Adam Zampa",
+      "role": "Bowler",
+      "price": "1.5 crore",
+      "nation": "Australia",
+      "age": 31,
+      "team": "Rajasthan"
     },
     {
-      "Player Name": "Rovman Powell",
-      "Role": "Batter",
-      "Price": "7.4 crore",
-      "Nation": "West Indies",
-      "Age": 30,
-      "Team": "Rajasthan"
+      "playerName": "Rovman Powell",
+      "role": "Batter",
+      "price": "7.4 crore",
+      "nation": "West Indies",
+      "age": 30,
+      "team": "Rajasthan"
     },
     {
-      "Player Name": "Tom Kohler-Cadmore",
-      "Role": "Wicket-keeper",
-      "Price": "40 lakh",
-      "Nation": "England",
-      "Age": 29,
-      "Team": "Rajasthan"
+      "playerName": "Tom Kohler-Cadmore",
+      "role": "Wicket-keeper",
+      "price": "40 lakh",
+      "nation": "England",
+      "age": 29,
+      "team": "Rajasthan"
     },
     {
-      "Player Name": "Nandre Burger",
-      "Role": "Bowler",
-      "Price": "50 lakh",
-      "Nation": "South Africa",
-      "Age": 28,
-      "Team": "Rajasthan"
+      "playerName": "Nandre Burger",
+      "role": "Bowler",
+      "price": "50 lakh",
+      "nation": "South Africa",
+      "age": 28,
+      "team": "Rajasthan"
     },
     {
-      "Player Name": "Faf du Plessis",
-      "Role": "Batter",
-      "Price": "7 crore",
-      "Nation": "South Africa",
-      "Age": 39,
-      "Team": "Bangalore"
+      "playerName": "Faf du Plessis",
+      "role": "Batter",
+      "price": "7 crore",
+      "nation": "South Africa",
+      "age": 39,
+      "team": "Bangalore"
     },
     {
-      "Player Name": "Glenn Maxwell",
-      "Role": "All-rounder",
-      "Price": "11 crore",
-      "Nation": "Australia",
-      "Age": 35,
-      "Team": "Bangalore"
+      "playerName": "Glenn Maxwell",
+      "role": "All-rounder",
+      "price": "11 crore",
+      "nation": "Australia",
+      "age": 35,
+      "team": "Bangalore"
     },
     {
-      "Player Name": "Reece Topley",
-      "Role": "Bowler",
-      "Price": "1.9 crore",
-      "Nation": "England",
-      "Age": 29,
-      "Team": "Bangalore"
-    },
-    {
-      "Player Name": "Will Jacks",
-      "Role": "All-rounder",
-      "Price": "3.2 crore",
-      "Nation": "England",
-      "Age": 25,
-      "Team": "Bangalore"
-    },
-    {
-      "Player Name": "Cameron Green",
-      "Role": "All-rounder",
-      "Price": "17.5 crore",
-      "Nation": "Australia",
-      "Age": 24,
-      "Team": "Bangalore"
-    },
-    {
-      "Player Name": "Alzarri Joseph",
-      "Role": "Bowler",
-      "Price": "11.5 crore",
-      "Nation": "West Indies",
-      "Age": 27,
-      "Team": "Bangalore"
-    },
-    {
-      "Player Name": "Tom Curran",
-      "Role": "All-rounder",
-      "Price": "1.5 crore",
-      "Nation": "England",
-      "Age": 28,
-      "Team": "Bangalore"
-    },
-    {
-      "Player Name": "Lockie Ferguson",
-      "Role": "Bowler",
-      "Price": "2 crore",
-      "Nation": "New Zealand",
-      "Age": 32,
-      "Team": "Bangalore"
-    },
-    {
-      "Player Name": "Glenn Phillips",
-      "Role": "Batter",
-      "Price": "1.5 crore",
-      "Nation": "New Zealand",
-      "Age": 27,
-      "Team": "Hyderabad"
-    },
-    {
-      "Player Name": "Heinrich Klaasen",
-      "Role": "Batter",
-      "Price": "5.25 crore",
-      "Nation": "South Africa",
-      "Age": 32,
-      "Team": "Hyderabad"
-    },
-    {
-      "Player Name": "Marco Jansen",
-      "Role": "All-rounder",
-      "Price": "4.2 crore",
-      "Nation": "South Africa",
-      "Age": 23,
-      "Team": "Hyderabad"
-    },
-    {
-      "Player Name": "Fazalhaq Farooqi",
-      "Role": "Bowler",
-      "Price": "50 lakh",
-      "Nation": "Afghanistan",
-      "Age": 23,
-      "Team": "Hyderabad"
-    },
-    {
-      "Player Name": "Travis Head",
-      "Role": "Batter",
-      "Price": "6.8 crore",
-      "Nation": "Australia",
-      "Age": 29,
-      "Team": "Hyderabad"
-    },
-    {
-      "Player Name": "Wanindu Hasaranga",
-      "Role": "All-rounder",
-      "Price": "1.5 crore",
-      "Nation": "Sri Lanka",
-      "Age": 26,
-      "Team": "Hyderabad"
-    },
-    {
-      "Player Name": "Pat Cummins",
-      "Role": "All-rounder",
-      "Price": "20.5 crore",
-      "Nation": "Australia",
-      "Age": 30,
-      "Team": "Hyderabad"
+      "playerName": "Reece Topley",
+      "role": "Bowler",
+      "price": "1.9 crore",
+      "nation": "England",
+      "age": 29,
+      "team": "Bangalore"
+    },
+    {
+      "playerName": "Will Jacks",
+      "role": "All-rounder",
+      "price": "3.2 crore",
+      "nation": "England",
+      "age": 25,
+      "team": "Bangalore"
+    },
+    {
+      "playerName": "Cameron Green",
+      "role": "All-rounder",
+      "price": "17.5 crore",
+      "nation": "Australia",
+      "age": 24,
+      "team": "Bangalore"
+    },
+    {
+      "playerName": "Alzarri Joseph",
+      "role": "Bowler",
+      "price": "11.5 crore",
+      "nation": "West Indies",
+      "age": 27,
+      "team": "Bangalore"
+    },
+    {
+      "playerName": "Tom Curran",
+      "role": "All-rounder",
+      "price": "1.5 crore",
+      "nation": "England",
+      "age": 28,
+      "team": "Bangalore"
+    },
+    {
+      "playerName": "Lockie Ferguson",
+      "role": "Bowler",
+      "price": "2 crore",
+      "nation": "New Zealand",
+      "age": 32,
+      "team": "Bangalore"
+    },
+    {
+      "playerName": "Glenn Phillips",
+      "role": "Batter",
+      "price": "1.5 crore",
+      "nation": "New Zealand",
+      "age": 27,
+      "team": "Hyderabad"
+    },
+    {
+      "playerName": "Heinrich Klaasen",
+      "role": "Batter",
+      "price": "5.25 crore",
+      "nation": "South Africa",
+      "age": 32,
+      "team": "Hyderabad"
+    },
+    {
+      "playerName": "Marco Jansen",
+      "role": "All-rounder",
+      "price": "4.2 crore",
+      "nation": "South Africa",
+      "age": 23,
+      "team": "Hyderabad"
+    },
+    {
+      "playerName": "Fazalhaq Farooqi",
+      "role": "Bowler",
+      "price": "50 lakh",
+      "nation": "Afghanistan",
+      "age": 23,
+      "team": "Hyderabad"
+    },
+    {
+      "playerName": "Travis Head",
+      "role": "Batter",
+      "price": "6.8 crore",
+      "nation": "Australia",
+      "age": 29,
+      "team": "Hyderabad"
+    },
+    {
+      "playerName": "Wanindu Hasaranga",
+      "role": "All-rounder",
+      "price": "1.5 crore",
+      "nation": "Sri Lanka",
+      "age": 26,
+      "team": "Hyderabad"
+    },
+    {
+      "playerName": "Pat Cummins",
+      "role": "All-rounder",
+      "price": "20.5 crore",
+      "nation": "Australia",
+      "age": 30,
+      "team": "Hyderabad"
     }
 ]
