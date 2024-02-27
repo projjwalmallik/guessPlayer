@@ -6,11 +6,11 @@ const PlayerCard = ({ player, hero, isGuessed}) => (
     
   <div className={`bg-design-white w-20 md:w-32 text-xs md:text-base rounded-xl inter border design-text design-border ${isGuessed ? 'bg-blue-500 text-gray-600' : 'bg-gray-200' }`}>
     <div className="bg-head p-1 mb-2 rounded-t-xl">
-      <h3 className="text-base font-bold inline-block">{hero.price}</h3>
+      <h3 className="text-base font-bold inline-block">{}</h3>
     </div>
     <div>
-        <h3 className="inline-block h-8">{hero.role === 'BT' ? <Batsman /> : hero.role === 'BW' ? <Bowler /> : hero.role === 'AR' ? <AllRounder />: <WicketKeeper />}</h3>
-        <p className='text-xs font-black design-text-value my-4 '>{hero.role === 'BT' ? "BATSMAN" : hero.role === 'BW' ? "BOWLER" : hero.role === 'AR' ? "ALL ROUNDER": "WICKET KEEPER"}</p>
+        {/* <h3 className="inline-block h-8">{hero.role === 'BT' ? <Batsman /> : hero.role === 'BW' ? <Bowler /> : hero.role === 'AR' ? <AllRounder />: <WicketKeeper />}</h3>
+        <p className='text-xs font-black design-text-value my-4 '>{hero.role === 'BT' ? "BATSMAN" : hero.role === 'BW' ? "BOWLER" : hero.role === 'AR' ? "ALL ROUNDER": "WICKET KEEPER"}</p> */}
     </div>
     <div className="mb-3 inline-block text-center">
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
