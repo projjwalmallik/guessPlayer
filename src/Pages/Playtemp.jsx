@@ -30,7 +30,7 @@ const Play = () => {
     const randomPlayersForToday = selectRandomPlayersForDay(list1, date);
     // const randomPlayers1 = selectRandomPlayersForDay(list1);
     // const randomPlayers2 = selectRandomPlayersForDay(list2);
-    console.log(randomPlayersForToday)
+    // console.log(randomPlayersForToday)
     
 
     const handleKeyPress = (event) => {
@@ -42,7 +42,7 @@ const Play = () => {
             setInput('')
         )
         if(key === "Hint") return (
-            console.log('Hint')
+            // console.log('Hint')
         )
         setInput((prev) => prev + key)
     }
